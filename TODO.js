@@ -1,5 +1,9 @@
 //TODO
+
+//---Done----
 //Set up new db
+
+//---Remaining----
 //Add books model
 //Check and modify user model
 //Add books route
